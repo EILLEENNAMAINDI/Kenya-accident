@@ -1,4 +1,4 @@
-# Kenya-accident
+# Kenya-road accidents
 Data showing accidents on Kenyan roads between 2016-2017.
 
 ##Objective 
